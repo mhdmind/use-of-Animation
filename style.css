@@ -130,7 +130,7 @@ nav .head-title{
 }
 .showcase::before{
     content: "";
-    background: url("/mahdi-version/img/ales-nesetril-Im7lZjxeLhg-unsplash.jpg") center center/cover;
+    background: url("img/ales-nesetril-Im7lZjxeLhg-unsplash.jpg") center center/cover;
     position: absolute;
     top: 0;
     left: 0;
